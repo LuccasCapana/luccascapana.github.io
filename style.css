@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(5, 5, 5);
+}
+h1{
+color: rgb(239, 239, 245);
+font-family: 'Gill Sans';
+}
+p{
+color: rgb(145, 37, 37);
+}
+
+.Habilidades{
+font-size: medium;
+color: aqua;
+font-weight: 30;
+
+}
+
+.Botao{
+background-color: rgb(252, 101, 13);
+color: rgb(0, 0, 0);
+text-decoration: none;
+border-radius: 150px;
+padding: 10px;
+}
+
+h4{
+color: cornflowerblue;
+font-size: larger;
+}
+
+.img {
+    float: left;
+    padding: 40px white;
+    margin: 20px;
+    margin-right: 40px;
+    border-radius: 10px;
+    border-color: white;
+}
+
+.Nome {
+    text-align: center;
+}
